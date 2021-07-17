@@ -31,3 +31,7 @@
 *.out
 *.app
 /.vs/MvvmNavigationApp/v16
+.vs
+
+/obj
+/bin/Debug
